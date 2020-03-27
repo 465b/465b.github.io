@@ -50,12 +50,6 @@ One of the most of challenging steps in the development of coupled hydrodynamic-
 
 [FABM on GitHub](https://github.com/fabm-model/fabm)
 
-### Ecopath \(with Ecoism\)
-
-The Ecopath with Ecosim \(EwE\) modeling approach combines software for ecosystem trophic mass balance analysis \(Ecopath\), with a dynamic modeling capability \(Ecosim\) for exploring past and future impacts of fishing and environmental disturbances as well as for exploring optimal fishing policies. Ecosim models can be replicated over a spatial map grid \(Ecospace\) to allow exploration of policies such as marine protected areas, while accounting for spatial dispersal/advection effects. The Ecopath approach and software has been under development for two decades, with Ecosim emerging in 1995, and Ecospace in 1998, leading to an integrated and widely applied package. We present an overview of the computational aspects of the Ecopath, Ecosim and Ecospace modules as they are implemented in the most recent software version.
-
-[Publication](http://doi.org/10.1016/j.ecolmodel.2003.09.003)
-
 ### Atlantis
 
 Atlantis was developed at CSIRO \(Australia\) as an ‘end-to-end’ simulation modeling approach for marine ecosystems that includes oceanographic, chemical \(nutrient cycling\), ecological \(competition and predation\), and anthropogenic processes in a three-dimensional, spatially explicit domain. Atlantis is intended as a strategic management tool to evaluate hypotheses about ecosystem response, to understand cumulative impacts of human activities, and to rank broad categories of management options.
