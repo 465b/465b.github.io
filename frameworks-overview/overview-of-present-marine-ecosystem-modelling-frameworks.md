@@ -5,7 +5,7 @@ Developing new ecosystem models is generally done through two approaches. Either
 However, because there exist a range modelling approaches there are also different frameworks which work only for a certain model types. We present a list of the currently present marine ecosystem model frameworks, to assist in the choice of a suitable one.
 
 This list will be continously updated to keep up with the current research developments.  
-If you know of any framework not listed here below, let me know at l.steidle@univie.ac.at or submit a pull requestvia \[GitHub\]\(github.com/465b/465b.github.io\)
+If you know of any framework not listed here below, let me know at l.steidle@univie.ac.at or submit a pull request via [GitHub](github.com/465b/465b.github.io)
 
 ## Forward Modelling Frameworks
 
