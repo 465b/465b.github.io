@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Overview of present marine ecosystem modelling Frameworks](README.md)
-* [index](untitled.md)
 
 ## Frameworks Overview
 
