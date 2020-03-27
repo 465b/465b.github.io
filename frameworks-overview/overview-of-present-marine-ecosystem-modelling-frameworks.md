@@ -8,7 +8,7 @@ However, because there exist several different typical modelling approaches ther
 
 ### QPress
 
-QPress R package for qualitative network modelling simulate model responses our five change scenarios by considering them as press perturbations \(i.e. sustained increases or declines in relevant network elements\). QPress implements a simulation approach to sample many iterations of the community interaction matrix that corresponds with a specified signed digraph. This means that, for each link, simulations sample across the range of possible strengths. Uncertain links are down-weighted by randomised exclusion from simulations. Only those iterations that are stable are maintained, and the responses are aggregated to provide a probabilistic interpretation of qualitative outcomes, i.e. the probability of a long-term population increase or decrease for each group in the model under a given press perturbation scenario.
+QPress is a R package for qualitative network modelling. It implements a simulation approach to sample many iterations of the community interaction matrix that corresponds with a specified signed digraph. This means that, for each link, simulations sample across the range of possible strengths. Uncertain links are down-weighted by randomised exclusion from simulations. Only those iterations that are stable are maintained, and the responses are aggregated to provide a probabilistic interpretation of qualitative outcomes, i.e. the probability of a long-term population increase or decrease for each group in the model under a given press perturbation scenario.
 
 [Related publication](https://doi.org/10.1016/j.marpol.2020.103832)
 
