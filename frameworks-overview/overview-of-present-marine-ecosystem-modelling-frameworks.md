@@ -2,7 +2,10 @@
 
 Developing new ecosystem models is generally done through two approaches. Either the model is written from scratch or a modelling framework is used. While writing a a new model from scratch offers the most flexibility it is also the most time consuming. Frameworks, assist in that process by offering parts of the functionality that is necessary for all applications in that context.
 
-However, because there exist several different typical modelling approaches there also different frameworks which work for a certain subset of model types. We present a list of the currently present marine ecosystem model frameworks, to assist in the choice of a suitable one.
+However, because there exist a range modelling approaches there are also different frameworks which work only for a certain model types. We present a list of the currently present marine ecosystem model frameworks, to assist in the choice of a suitable one.
+
+This list will be continously updated to keep up with the current research developments.  
+If you know of any framework not listed here below, let me know at l.steidle@univie.ac.at or submit a pull requestvia \[GitHub\]\(github.com/465b/465b.github.io\)
 
 ## Forward Modelling Frameworks
 
