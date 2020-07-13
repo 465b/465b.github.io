@@ -61,3 +61,11 @@ Atlantis was developed at CSIRO \(Australia\) as an ‘end-to-end’ simulation 
 
 [User Guide](https://research.csiro.au/atlantis/?ddownload=111)
 
+### Osmose
+
+OSMOSE is a multispecies and Individual-based model (IBM) which focuses on fish species. This model assumes opportunistic predation based on spatial co-occurrence and size adequacy between a predator and its prey. It represents fish individuals grouped into schools, which are characterized by their size, weight, age, taxonomy and geographical location (2D model), and which undergo major processes of fish life cycle (growth, reproduction, migration, and starvation, predation, fishing mortalities). The model needs life history parameters that are often available for a wide range of species, and which can be found in FishBase for instance. All current Osmose applications are coupled to hydrodynamics and biogeochemical models which directly impact fish physiology and spatial distribution. A bioenergetic module is available from version 4.3. An evolutionary and economic modules are under development. Output indicators are spatially, temporally, size-, age-, species resolved.
+
+[Webpage](http://www.osmose-model.org/)
+
+[User Guide](http://documentation.osmose-model.org/)
+
